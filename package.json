@@ -1,0 +1,16 @@
+{
+  "title": "tifinagh2latin",
+  "name": "tifinagh2latin",
+  "version": "0.0.1",
+  "description": "Addon to translate tifinagh scripts to latin",
+  "main": "index.js",
+  "author": "aeikmostu",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
